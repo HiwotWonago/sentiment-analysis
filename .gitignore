@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+
+# VSCode
+.vscode/
+!.vscode/settings.json
+
+# Data
+data/
+*.csv
+*.json
+*.pkl
